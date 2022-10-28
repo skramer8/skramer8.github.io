@@ -6,7 +6,8 @@ output:
     toc_float: true
 ---
 
-# Summary: I am passionate about improve access to health care with historically marginalized and oppressed communities. I would like to work towards ensuring organizations foster psychological safety, trust, and accountability. 
+# Summary: 
+I am passionate about improve access to health care with historically marginalized and oppressed communities. I would like to work towards ensuring organizations foster psychological safety, trust, and accountability. 
 
 # Education
 Master in Public Health Candidate ('23) in Health Policy and Management, Health and Human Rights at Columbia Mailman School of Public Health
@@ -68,4 +69,4 @@ Bachelor of Arts in Health: Science, Society and Policy; Social Justice and Soci
 * Community outreach and stakeholder engagement 
 * Quality Improvement
 
-[Here's](dashboard.html) a page with plotly plots to show some of my work. Data is from [NYC Health] (https://www1.nyc.gov/assets/doh/downloads/pdf/rii/how-we-score-grade.pdf).  
+[Here's](dashboard.html) a page with plotly plots to show some of my work. Data is from [NYC Health](https://www1.nyc.gov/assets/doh/downloads/pdf/rii/how-we-score-grade.pdf).  
