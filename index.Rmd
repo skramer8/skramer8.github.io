@@ -1,12 +1,18 @@
 ---
-title: "My awesome website"
+title: "An Introduction"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
+# My name is Sara Kramer. 
+I grew up outside of the Philadelphia area. I'm half-Argentinian. I love to travel, cook, spend time with friends/family, hike and play board games. Fun fact: I played quidditch in college (yes, like in Harry potter)
 
-# 
+# Some pictures
 
-![]( )
+![My 3-year-old pup, Brandy](images/brandy.jpg)
+
+![My family dog, Toby](images/toby.jpg)
+
+
+![At the Rainbow Mountains in Peru](images/peru_mountains.jpg)

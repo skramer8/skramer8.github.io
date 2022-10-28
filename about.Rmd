@@ -1,28 +1,71 @@
 ---
-title: "about"
-output: html_document
+title: "My Academic and Professional Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Summary: I am passionate about improve access to health care with historically marginalized and oppressed communities. I would like to work towards ensuring organizations foster psychological safety, trust, and accountability. 
 
-## R Markdown
+# Education
+Master in Public Health Candidate ('23) in Health Policy and Management, Health and Human Rights at Columbia Mailman School of Public Health
+ *Relevant coursework
+  ** Accounting and Budgeting
+  ** Empirical Analysis
+  ** Environmental Justice
+  ** Health Policy and Analysis
+  ** Data Science
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Bachelor of Arts in Health: Science, Society and Policy; Social Justice and Social Policy from Brandeis University (2017)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+# Experience 
+* **Qualitative Research** at New York Presbyterian Hospital: conduct research on surgical ICU culture, racism, and staff experience *(August 2022 - Present)* 
 
-```{r cars}
-summary(cars)
-```
+* **Health** Equity Strategic Intern* at New York City Health and Hospitals Corporation: developed and implemented health equity strategic plan at Gouverneur *(June 2022 - August 2022)*
 
-## Including Plots
+* **Program Manager, Program Coordinator** at Institute for Healthcare Improvement: developed, implemented, analyzed, and improved educational programs on a variety of health and health care topics. Co-managed culture and change management committee *(August 2018 - May 2021)*
 
-You can also embed plots, for example:
+* **Promise Zone Convening Leader, AmeriCorps VISTA** at The Center for Family Services/City of Camden, NJ Government: Managed working groups, development and maintained stakeholder/community partnerships on efforts to address poverty in the community *(July 2017 - July 2018)*
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* **Health Career Connection/Health Equity Reearch and Intervention Intern** at Brigham and Women's Hospital (Center for Community Health and Health Equity): Conducted data analyses projects *(May 2016 - May 2017)*
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* **BioStatistics Teaching Assistant** at Brandeis University *(January 2016 - May 2017)*
+
+* **Food and Wellness Network Intern** at Turning Points for Children: Assisted in daily operations of the FAWN food pantry *(June 2015 - August 2015)*
+
+* **Discovery Camp Counselor** at The Franklin Institute: Ensured the physical and emotional well-being of campers and taught them interactive science lessons *(June 2013 - August 2015, during summers and school breaks)*
+
+# Volunteer and Leadership
+* Transcriber with the Prison Journalism Project
+* Born to Read Volunteer with the Center for Family Services
+* Social Justice and Social Policy Undergraduate Department Representative at Brandeis University 
+* Project Plus One Student Chapter Leader at Brandeis University
+
+# Publications
+!["When Immigration Policy Disrupts Health Care Access"](https://www.ihi.org/communities/blogs/when-immigration-policy-disrupts-health-care-access)
+
+!["Tips for Starting a Patient Education QI Project"](https://www.ihi.org/communities/blogs/tips-for-starting-a-patient-education-qi-project)
+
+!["Getting Grounded" Building a Foundation for Health Equity and Racial Justice Work in Health Care Teams"](https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0320)
+
+# Skills I have
+* Computer
+  * Microsoft Excel
+  * Microsoft PowerPoint
+  * R
+  * SAS
+  * STATA
+  * ArcGIS
+  * Zoom
+  * WebEx
+* Languages
+  * Proficiency working proficiency - Spanish
+  * Elementary proficiency - Haitian Creole
+* Program management - including implementation and evaluation 
+* Virtual education and teaching
+* Facilitation 
+* Community outreach and stakeholder engagement 
+* Quality Improvement
+
+[Here's](dashboard.html) a page with plotly plots to show some of my work. Data is from [NYC Health] (https://www1.nyc.gov/assets/doh/downloads/pdf/rii/how-we-score-grade.pdf).  
