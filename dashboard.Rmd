@@ -48,7 +48,7 @@ rest_inspec %>%
   filter(boro == "Manhattan", cuisine_description == "Ice Cream, Gelato, Yogurt, Ices") %>%
   plot_ly(x = ~dba, y = ~grade, type = "scatter", mode = "markers", color = ~grade, alpha = .5) %>%
   layout(
-    title = 'Inspection Grades of Manhattan Ice Cream Shops Over Time',
+    title = 'Inspection Grades of Manhattan Ice Cream Shops',
     xaxis = list(title = 'Restaurant Name'),
     yaxis = list(title = 'Inspection Grade')
   )
